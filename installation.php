@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css/style.css" type="text/css" rel="stylesheet" />
-<title>MSI</title>
+<title>MSI-Installation</title>
 </head>
 
 <body>
